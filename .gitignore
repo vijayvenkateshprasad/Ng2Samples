@@ -1,0 +1,8 @@
+#ignore js files
+*.js
+
+#ignore js files
+*.js.map
+
+#ignore node_modules
+node_modules
